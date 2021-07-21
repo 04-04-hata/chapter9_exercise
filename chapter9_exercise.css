@@ -30,13 +30,13 @@ main {
 }
 .photo1 {
   height: 150px;
-  background-image: url(img/flow03.png);
+  background-image: url(img/flow01.png);
   background-position: bottom;
   background-size: cover;
 }
 .photo2 {
   height: 150px;
-  background-image: url(img/flow03.png);
+  background-image: url(img/flow02.png);
   background-position: bottom;
   background-size: cover;
 }
